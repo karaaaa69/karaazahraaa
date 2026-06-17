@@ -16,7 +16,7 @@ let musicPausedForVideo = false;
 
 const letters4 = [
   'Happy Birthday Fatima Zahra, May Allah Bless youuuu',
-  'Yaumul Milad Barakallah Fii Umrik Habibi, May ur faith and devotion to Allah SWT grow stronger in this new age',
+  'Yaumul Milad Barakallah Fii Umrik, May ur faith and devotion to Allah SWT grow stronger in this new age',
   'May Allah protect ur steps and make u a woman longed for in Jannah',
   'May Allah make it easy for us to walk towards a holy bond, and make u a pious woman who always obeys Allah',
   'May Allah always forgive all the sins that we, our families, and our loved ones have committed',
@@ -26,12 +26,13 @@ const letters4 = [
   'I never forget to pray that we can look after each other, care for each other, and love each other for the sake of Allah. And i hope we meet at the right time',
   'You will achieve all the dreams u are fighting for right now, i believe uuu can do it!',
   'Never give up!! and I also want you to pray for me after every ur salat',
-  'Keep Going Habibiiiiiiii!!!!'
+  'Keep Going Zahraaaaaaa!!!!'
 ];
 
 const letters7 = [
-  'U knowwwwwww whattt?? Today is my girl Birthday!',
-  'Happy birthday! Thank you for being the most comfortable place to share stories. May you always be blessed with good rizq, happiness, and love for me even more, okay?! hhhh'
+  'U knowwwwwww whattt?? Today is Capybara Birthday!',
+  'My Best Friend Birthdayyy!!!!'
+  'Happy birthday! Thank you for being the most comfortable place to share stories. May you always be blessed with good rizq, happiness, and u will get good news in july about ur Medicine Announcement, u will be a gooooodddd Doctor, okay?!'
 ];
 
 function createHearts(count = 40){
